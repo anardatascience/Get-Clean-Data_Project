@@ -7,20 +7,19 @@ Activity  - The type of activity performed when the corresponding measurements w
 
 
 Measurements:
-
 tBodyAccMeanX 
 tBodyAccMeanY
-tBodyAccMeanZ
-
+tBodyAccMeanZ 
+tBodyAccStdX
+tBodyAccStdY 
+tBodyAccStdZ
 
 
 
 
  
-  
-tBodyAccStdX 
-tBodyAccStdY 
-tBodyAccStdZ 
+
+ 
 tGravityAccMeanX 
 tGravityAccMeanY 
 tGravityAccMeanZ 
@@ -97,9 +96,16 @@ fBodyBodyGyroJerkMagMeanFreq
 
 Activity Labels:
 Code		Value
+
 1	    	WALKING
+
 2	    	WALKING_UPSTAIRS
+
 3	    	WALKING_DOWNSTAIRS
+
 4	   	 SITTING
+
 5	   	 STANDING
+
 6	   	 LAYING
+
