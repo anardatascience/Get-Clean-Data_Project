@@ -100,5 +100,5 @@ completeDataDS.mean <- dcast(completeDataDS.melted, Subject + Activity ~ variabl
 # create a second, independent tidy data set with the average of each variable for each activity and each subject.
 #write.table prints its required argument x (after converting it to a data frame if it is not one nor a matrix) 
 #to a file or connection. 
-# The GetCleanDataTidy.csv is written to the Data Directory <Working Directory/data>
-write.table(completeDataDS.mean, "GetCleanDataTidy.csv", col.names = TRUE, row.names = FALSE, sep = ",", dec = ".", quote = FALSE) 
+# The GetCleanDataTidy.txt is written to the Data Directory <Working Directory/data>
+write.table(completeDataDS.mean, "GetCleanDataTidy.txt", col.names = TRUE, row.names = FALSE, sep = " ", dec = ".", quote = FALSE) 
