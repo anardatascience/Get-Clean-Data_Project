@@ -7,105 +7,100 @@ Activity  - The type of activity performed when the corresponding measurements w
 
 
 Measurements:
-tBodyAccMeanX 
-tBodyAccMeanY
-tBodyAccMeanZ 
-tBodyAccStdX
-tBodyAccStdY 
-tBodyAccStdZ
 
-
-
-
- 
-
- 
-tGravityAccMeanX 
-tGravityAccMeanY 
-tGravityAccMeanZ 
-tGravityAccStdX 
-tGravityAccStdY 
-tGravityAccStdZ 
-tBodyAccJerkMeanX 
-tBodyAccJerkMeanY 
-tBodyAccJerkMeanZ 
-tBodyAccJerkStdX 
-tBodyAccJerkStdY 
-tBodyAccJerkStdZ 
-tBodyGyroMeanX 
-tBodyGyroMeanY 
-tBodyGyroMeanZ 
-tBodyGyroStdX 
-tBodyGyroStdY 
-tBodyGyroStdZ 
-tBodyGyroJerkMeanX 
-tBodyGyroJerkMeanY 
-tBodyGyroJerkMeanZ 
+tBodyAccMeanX    
+tBodyAccMeanY    
+tBodyAccMeanZ     
+tBodyAccStdX     
+tBodyAccStdY      
+tBodyAccStdZ   
+tGravityAccMeanX   
+tGravityAccMeanY   
+tGravityAccMeanZ   
+tGravityAccStdX   
+tGravityAccStdY   
+tGravityAccStdZ   
+tBodyAccJerkMeanX   
+tBodyAccJerkMeanY   
+tBodyAccJerkMeanZ   
+tBodyAccJerkStdX   
+tBodyAccJerkStdY   
+tBodyAccJerkStdZ   
+tBodyGyroMeanX   
+tBodyGyroMeanY   
+tBodyGyroMeanZ   
+tBodyGyroStdX   
+tBodyGyroStdY   
+tBodyGyroStdZ   
+tBodyGyroJerkMeanX   
+tBodyGyroJerkMeanY   
+tBodyGyroJerkMeanZ   
 tBodyGyroJerkStdX 
-tBodyGyroJerkStdY 
-tBodyGyroJerkStdZ 
-tBodyAccMagMean 
-tBodyAccMagStd 
-tGravityAccMagMean 
-tGravityAccMagStd 
-tBodyAccJerkMagMean 
-tBodyAccJerkMagStd 
-tBodyGyroMagMean 
-tBodyGyroMagStd 
-tBodyGyroJerkMagMean 
-tBodyGyroJerkMagStd 
-fBodyAccMeanX 
-fBodyAccMeanY 
-fBodyAccMeanZ 
-fBodyAccStdX 
-fBodyAccStdY 
-fBodyAccStdZ 
-fBodyAccMeanFreqX 
-fBodyAccMeanFreqY 
-fBodyAccMeanFreqZ 
-fBodyAccJerkMeanX 
-fBodyAccJerkMeanY 
-fBodyAccJerkMeanZ 
-fBodyAccJerkStdX 
-fBodyAccJerkStdY 
-fBodyAccJerkStdZ 
-fBodyAccJerkMeanFreqX 
-fBodyAccJerkMeanFreqY 
-fBodyAccJerkMeanFreqZ 
-fBodyGyroMeanX 
-fBodyGyroMeanY 
-fBodyGyroMeanZ 
-fBodyGyroStdX 
-fBodyGyroStdY 
-fBodyGyroStdZ 
-fBodyGyroMeanFreqX 
-fBodyGyroMeanFreqY 
-fBodyGyroMeanFreqZ 
-fBodyAccMagMean 
-fBodyAccMagStd 
-fBodyAccMagMeanFreq 
-fBodyBodyAccJerkMagMean 
-fBodyBodyAccJerkMagStd 
-fBodyBodyAccJerkMagMeanFreq 
-fBodyBodyGyroMagMean 
-fBodyBodyGyroMagStd 
-fBodyBodyGyroMagMeanFreq 
-fBodyBodyGyroJerkMagMean 
-fBodyBodyGyroJerkMagStd 
-fBodyBodyGyroJerkMagMeanFreq 
+tBodyGyroJerkStdY  
+tBodyGyroJerkStdZ  
+tBodyAccMagMean  
+tBodyAccMagStd  
+tGravityAccMagMean  
+tGravityAccMagStd  
+tBodyAccJerkMagMean  
+tBodyAccJerkMagStd  
+tBodyGyroMagMean  
+tBodyGyroMagStd  
+tBodyGyroJerkMagMean  
+tBodyGyroJerkMagStd  
+fBodyAccMeanX  
+fBodyAccMeanY  
+fBodyAccMeanZ  
+fBodyAccStdX  
+fBodyAccStdY  
+fBodyAccStdZ  
+fBodyAccMeanFreqX  
+fBodyAccMeanFreqY  
+fBodyAccMeanFreqZ  
+fBodyAccJerkMeanX  
+fBodyAccJerkMeanY  
+fBodyAccJerkMeanZ  
+fBodyAccJerkStdX  
+fBodyAccJerkStdY  
+fBodyAccJerkStdZ  
+fBodyAccJerkMeanFreqX  
+fBodyAccJerkMeanFreqY  
+fBodyAccJerkMeanFreqZ  
+fBodyGyroMeanX  
+fBodyGyroMeanY  
+fBodyGyroMeanZ  
+fBodyGyroStdX  
+fBodyGyroStdY  
+fBodyGyroStdZ  
+fBodyGyroMeanFreqX  
+fBodyGyroMeanFreqY  
+fBodyGyroMeanFreqZ  
+fBodyAccMagMean  
+fBodyAccMagStd  
+fBodyAccMagMeanFreq  
+fBodyBodyAccJerkMagMean  
+fBodyBodyAccJerkMagStd  
+fBodyBodyAccJerkMagMeanFreq  
+fBodyBodyGyroMagMean  
+fBodyBodyGyroMagStd  
+fBodyBodyGyroMagMeanFreq  
+fBodyBodyGyroJerkMagMean  
+fBodyBodyGyroJerkMagStd  
+fBodyBodyGyroJerkMagMeanFreq  
 
 Activity Labels:
-Code		Value
 
-1	    	WALKING
+Code	-	Value
 
-2	    	WALKING_UPSTAIRS
+1	  -  	WALKING
 
-3	    	WALKING_DOWNSTAIRS
+2	  - 	 WALKING_UPSTAIRS
 
-4	   	 SITTING
+3	  -  	WALKING_DOWNSTAIRS
 
-5	   	 STANDING
+4	  - 	 SITTING
 
-6	   	 LAYING
+5	  - 	 STANDING
+
+6	  - 	 LAYING
 
